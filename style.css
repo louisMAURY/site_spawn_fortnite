@@ -1,0 +1,18 @@
+body {
+	text-align: center;
+	background-color: #75ddf8;
+}
+a {
+	text-decoration: none;
+	border: solid black 1px;
+	background-color: #af31db;
+	color: white;
+}
+img {
+	width: 600px;
+	height: 300px;
+}
+.inventory {
+	width: 60px;
+	height: 60px;
+}
